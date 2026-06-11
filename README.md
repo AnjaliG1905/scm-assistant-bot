@@ -184,5 +184,3 @@ API keys are excluded via `.gitignore`. No secrets are committed to this reposit
 
 ---
 
-*Trinamix INC · Junior AI Engineer Hiring Task · Ref: TX-JrAI-003*
-
